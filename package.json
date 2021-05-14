@@ -1,0 +1,24 @@
+{
+  "name": "stock-portfolio-rebalancer",
+  "version": "1.0.0",
+  "description": "A Stock Portfolio Tracker that also helps with Rebalancing your stock holdings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raiishin/Stock-Portfolio-Rebalancer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raiishin/Stock-Portfolio-Rebalancer/issues"
+  },
+  "homepage": "https://github.com/Raiishin/Stock-Portfolio-Rebalancer#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "request": "^2.81.0",
+    "stocks.js": "0.0.19"
+  }
+}
